@@ -6817,4 +6817,15 @@
     <Website>https://github.com/pingval/AutoSplitters</Website>
   </AutoSplitter>
 </AutoSplitters>
+ <AutoSplitter>
+    <Games>
+      <Game>Puyo Puyo SUN</Game>
+    </Games>
+    <URLs>
+      <URL>https://raw.githubusercontent.com/Leminn/Puyo-Puyo-SUN-AutoSplitter/master/Puyo%20Puyo%20SUN.asl</URL>
+    </URLs>
+    <Type>Script</Type>
+    <Description>Autosplitter for Puyo Puyo SUN PC that starts and splits automatically.</Description>
+  </AutoSplitter>
+</AutoSplitters>
 
